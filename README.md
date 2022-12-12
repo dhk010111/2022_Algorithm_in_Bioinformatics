@@ -10,3 +10,10 @@
 
 # Phylogenetic Tree(계통수)
 - Biopython으로 구현
+
+# File 구성
+- 발표자료
+- Muscle 실행 파일
+- Pregressive MSA
+- Neddleman-Wunsch MSA 
+- Phylogenetic Tree
