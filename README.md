@@ -17,3 +17,4 @@
 - Pregressive MSA
 - Neddleman-Wunsch MSA 
 - Phylogenetic Tree
+- Sequence Generator
